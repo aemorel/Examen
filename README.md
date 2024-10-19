@@ -6,7 +6,7 @@ Requisitos:
 
 Tu tarea es limpiar y explorar un dataset que contiene información sobre las ventas de videojuegos en el año 2024. Este análisis es crucial para entender las tendencias de mercado y los factores que influyen en las ventas de videojuegos.
 
-El dataset puede ser encontrado aquí.
+El dataset puede ser encontrado aquí: https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024
 
     Limpieza de datos con Python:
         Detección y eliminación de valores duplicados: Asegúrate de que cada registro en el dataset sea único.
