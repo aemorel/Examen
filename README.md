@@ -1,4 +1,5 @@
-# **Exámenes - Curso de Data Science & Machine Learning - Coding Dojo**
+# **Exámenes**
+# **Curso de Data Science & Machine Learning - Coding Dojo**
 
 Este repositorio contiene los exámenes realizados durante los cursos de **Fundamentos de Ciencia de Datos**, **Machine Learning** y **Advanced Machine Learning**, impartidos en **Coding Dojo**. Los exámenes evalúan la aplicación práctica de herramientas y técnicas clave en el flujo de trabajo de un **Data Scientist**.
 
